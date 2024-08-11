@@ -6,8 +6,10 @@
     alt="geomydas"
   />
 </p>
-- 🌱 I’m currently learning **TailwindCSS, Javascript**
-- 💬 Ask me about **CSS, Sass and Tailwind + Accesibility**
+<ul>
+  <li> 🌱 I’m currently learning <strong>TailwindCSS, Javascript</strong></li>
+  <li>💬 Ask me about <strong>CSS, Sass and Tailwind + Accesibility</strong></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
